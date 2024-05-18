@@ -3,9 +3,7 @@
 ---
 
 
-![[https://imgur.com/2dLDVyz\|https://imgur.com/2dLDVyz]]
-
-
+<iframe src="https://i.imgur.com/2dLDVyz.png" allow="fullscreen" allowfullscreen="" style="margin: auto; display:block; height: 600px; width: 900px; aspect-ratio: 16 / 9;"></iframe>
 
 finally today, I defined the initial ontology of my speculative organology.  It’s organized in six paths unfolding the actual description of technical objects in their application as musical instruments.
 
