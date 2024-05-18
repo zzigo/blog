@@ -7,5 +7,9 @@
 
 
 
-finally today, I defined the initial ontology of my speculative organology.  It’s organized in six paths unfolding the actual description of technical objects in their application as musical instrumnents. 
+finally today, I defined the initial ontology of my speculative organology.  It’s organized in six paths unfolding the actual description of technical objects in their application as musical instruments.
+
+The broad concept is based on the foundations of [[00-zettelkasten/general organology\|general organology]], [[mind instrumentation\|mind instrumentation]] studies, [[speculative realism\|speculative realism]], and speculative design, futuring and neuro-design methods mind instrumentation]] studies, [[speculative realism\|speculative realism]], and the methods of speculative design, futuring and neuro-design.
+
+
 
