@@ -1,5 +1,5 @@
 ---
-{"type":"concept","tags":null,"url":null,"year":null,"summary":null,"photo":null,"connections":["[[**epiphylogenetics**]]","[[primary memory]]","[[tertiary memory]]"],"person":null,"dg-publish":true,"created":2404231604,"modified":2404231604,"permalink":"/00-zettelkasten/speculative-organology/","dgPassFrontmatter":true}
+{"type":"concept","tags":null,"url":null,"year":null,"summary":null,"photo":null,"connections":["[[🟢 epiphylogenetics]]","[[primary memory]]","[[tertiary memory]]"],"person":null,"dg-publish":true,"created":2404231604,"modified":2404231604,"permalink":"/00-zettelkasten/speculative-organology/","dgPassFrontmatter":true}
 ---
 
 
